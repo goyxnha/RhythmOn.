@@ -1,2 +1,5 @@
-# RhythmOn.
-리듬온(RhythmOn)은 학생의 학습 습관과 과목별 학습 상태, 시험 일정, 요일별 공부 가능 시간을 분석하여 개인에게 적합한 학습 계획을 자동으로 생성하는 AI 기반 맞춤형 학습계획 서비스이다.  학생이 자신의 학습 정보를 입력하면 학습 시간, 과목별 우선순위, 학습 수준 등을 고려하여 주간 학습 계획을 제안한다. 또한 학습 습관과 관련된 객관적인 연구 데이터를 참고하여 학습 특성을 분석하고, 계획표 출력 및 저장 기능을 제공한다.  궁극적으로 학생들이 무리한 공부 계획이 아닌 자신의 생활 패턴에 맞는 현실적인 학습 계획을 세우고 효율적으로 학습할 수 있도록 돕는 것을 목표로 한다.
+# Data folder
+
+The original UCI dataset is not committed to this repository. The app downloads the official archive when the user selects **UCI 공개 수학 자료 불러오기**. You can also upload `student-mat.csv` manually.
+
+This avoids redistributing a separate copy of the dataset and keeps the repository lightweight.
